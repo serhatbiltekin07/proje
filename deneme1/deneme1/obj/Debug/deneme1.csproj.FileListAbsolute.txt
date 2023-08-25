@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\deneme1\deneme1\bin\Debug\deneme1.exe.config
+C:\Users\user\Desktop\projeler\deneme1\deneme1\bin\Debug\deneme1.exe
+C:\Users\user\Desktop\projeler\deneme1\deneme1\bin\Debug\deneme1.pdb
+C:\Users\user\Desktop\projeler\deneme1\deneme1\obj\Debug\deneme1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\deneme1\deneme1\obj\Debug\deneme1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\deneme1\deneme1\obj\Debug\deneme1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\deneme1\deneme1\obj\Debug\deneme1.exe
+C:\Users\user\Desktop\projeler\deneme1\deneme1\obj\Debug\deneme1.pdb
