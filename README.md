@@ -1,0 +1,2 @@
+# proje
+![Uploading bölme.png…]()
